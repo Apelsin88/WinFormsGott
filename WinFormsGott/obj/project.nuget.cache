@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iWUZmSyUYWAx17fxLvD0WYIGVC19prnLx0pWOIWvoJl331zhoEpke6TpiyAQrZc/EC4J7O0riIX+a4jD/grQ/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JA365\\source\\repos\\WinFormsGott\\WinFormsGott\\WinFormsGott.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JA365\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
